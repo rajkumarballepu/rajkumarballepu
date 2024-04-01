@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://wallpapers.com/images/high/1920x1080-hd-coding-y91f4kouvp7yl4l6.webp" align="center" />
+<div>
+  <img src="https://photos.app.goo.gl/xWxmMirqawjFQ3na6" />
+  <img src="https://wallpapers.com/images/high/1920x1080-hd-coding-y91f4kouvp7yl4l6.webp" align="center" />
+</div>
 <h1 align="center">Hi 👋, I'm Raj Kumar Ballepu</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
